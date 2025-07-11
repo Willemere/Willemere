@@ -7,7 +7,7 @@ Console.WriteLine("Hello, Russia!");
 
 <div id="badges" align="center">
   <a href="https://vk.com/podsq">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="VkontekteIn Badge"/>
+    <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="VkontekteIn Badge"/>
   </a>
   <a href="https://t.me/winsShame">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TelegramIn Badge"/>
